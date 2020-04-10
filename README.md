@@ -17,7 +17,7 @@
 
 # 三方依赖库安装
 ```
-cd FangTianXia
+cd FangTianXiaDistributedSpider
 pip install -r requirements.txt
 ```
 
